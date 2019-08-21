@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
     .subscribe( response =>{
       this.nuevasCanciones = response;
       this.loading = false;
-      console.log(response);
+      //console.log(response);
     });
   }
 

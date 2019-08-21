@@ -69,3 +69,7 @@ hr {
 .container {
     padding-top: 5%;
 }
+
+.track-img {
+    height: 50px;
+}
